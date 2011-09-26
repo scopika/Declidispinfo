@@ -7,7 +7,7 @@
  	<auteur>Scopika.com</auteur>
  	<thelia>1.5.0</thelia>
  	<description>Ce plugin permet d’associer des contenus aux valeurs d’une déclinaison. Une boucle vous permettra de les récupérer
-    &lt;br/&gt; Création : &lt;a href="http://wwww.scopika.com" style="color:#FF0066"&gt;Agence Scopika&lt;/a&gt;
+    &lt;br/&gt; Création : &lt;a href="http://www.scopika.com" style="color:#FF0066"&gt;Agence Scopika&lt;/a&gt;
  	</description>
 	<rubrique>navigation</rubrique>
 	<documentation>README</documentation>
