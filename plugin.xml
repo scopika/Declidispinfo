@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<plugin>
+	<nom>Associer des contenus aux valeurs d’une déclinaison</nom>
+ 	<version>1.0</version>
+ 	<prefix>declidispinfo</prefix>
+	<type>classique</type>
+ 	<auteur>Scopika.com</auteur>
+ 	<thelia>1.5.0</thelia>
+ 	<description>Ce plugin permet d’associer des contenus aux valeurs d’une déclinaison. Une boucle vous permettra de les récupérer</description>
+	<rubrique>navigation</rubrique>
+	<documentation>READMEt</documentation>
+ 	<etat>production</etat>
+</plugin>
